@@ -73,6 +73,6 @@ public class Exercise {
             sum6 += mdArray[row][column];
             }
         }
-        System.out.println("The sum of PATTERN 5 is: " + sum6);
+        System.out.println("The sum of PATTERN 6 is: " + sum6);
     }
   }
